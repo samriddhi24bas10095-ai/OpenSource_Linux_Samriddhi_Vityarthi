@@ -1,6 +1,6 @@
 # 🐧 Open Source Audit — Linux Kernel
-# Name: Sarthak Maurya
-# Roll No: 24BAI10269
+# Name: Samriddhi Kulshreshtha
+# Roll No: 24BAS10095
 
 A capstone project exploring the philosophy, architecture, and ecosystem of the **Linux Kernel** as part of an Open Source Software course.
 
@@ -151,8 +151,8 @@ Displays system-level information:
 
 ## 📚 Author
 
-**Sarthak Maurya**
-Registration Number: 24BAI10269
+**Samriddhi Kulshreshtha**
+Registration Number: 24BAS10095
 Course: Open Source Software
 
 ---
